@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      PLUGIN_SLUG: woocommerce-plugin
+      PLUGIN_SLUG: wasa-kredit-checkout
 
     steps:
     - name: Checkout repository
