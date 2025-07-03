@@ -29,7 +29,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  * Domain Path:       /languages
  *
  * WC requires at least: 5.0.0
- * WC tested up to: 9.8.2
+ * WC tested up to: 9.9.5
  */
 
 // If this file is called directly, abort.
